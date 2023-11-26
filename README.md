@@ -1,4 +1,4 @@
-### Hi there 👋
+# I'm Muzzamil 👋
 
 <!--
 **muzzamilr/muzzamilr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muzzamilr&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzzamilr&layout=donut)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muzzamilr&repo=dns&show_owner=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muzzamilr&repo=bittorrent-rs&show_owner=true)
