@@ -1,6 +1,11 @@
 # I'm Muzzamil 👋
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muzzamilr&rank_icon=github&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzzamilr&layout=compact&theme=tokyonight) |
