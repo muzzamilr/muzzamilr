@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Update Stats
 
 on:
   # for manual workflow trigger
@@ -8,8 +8,8 @@ on:
     - cron: "0 */2 * * *"
 
 jobs:
-  update-readme:
-    name: WakaReadme DevMetrics
+  update-stats:
+    name: Update Stats
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master # this action name
