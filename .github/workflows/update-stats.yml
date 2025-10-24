@@ -1,17 +1,16 @@
 name: Update Stats
 
 on:
-  # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # Runs every 2 hours
-    - cron: "0 */2 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   update-stats:
     name: Update Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # this action name
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
